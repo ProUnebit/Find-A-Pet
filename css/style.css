@@ -1,13 +1,4 @@
-@keyframes logo-animation {
-    from {
-        filter: sepia(0%);
-    } to {
-        filter: sepia(100%);
-    }
-}
-
 .logo {
-    /* animation: logo-animation 5s linear 1s infinite alternate; */
     filter: sepia(85%);
 }
 
@@ -16,7 +7,15 @@
     color: #82612B;
 }
 
-/* .btn {
+.find-a-pet-container {
+    background-color: #F7F7E8;
+}
+
+.btn {
     background-color: #82612B;
     color: #fff;
-} */
+}
+
+.img-sepia {
+    filter: sepia(70%);
+}
