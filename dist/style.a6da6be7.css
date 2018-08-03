@@ -1,0 +1,22 @@
+@keyframes logo-animation {
+    from {
+        filter: sepia(0%);
+    } to {
+        filter: sepia(100%);
+    }
+}
+
+.logo {
+    /* animation: logo-animation 5s linear 1s infinite alternate; */
+    filter: sepia(85%);
+}
+
+.find-a-pet-style {
+    font-family: 'Shadows Into Light', cursive;
+    color: #82612B;
+}
+
+/* .btn {
+    background-color: #82612B;
+    color: #fff;
+} */
