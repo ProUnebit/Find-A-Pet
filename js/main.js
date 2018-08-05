@@ -28,7 +28,6 @@ function showAnimals(pets) {
     results.innerHTML = '';
 
     pets.map(pet => {
-        console.log(pet)
         const div = document.createElement('div');
         div.classList.add('card', 'card-body', 'mb-3');
         div.innerHTML = `
