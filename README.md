@@ -1,6 +1,6 @@
 ![](assets/img/logo-promo.png)
 
-**About:** Vanilla **JS** App, use: **Parcel**, **Babel** and **Fetch JSONP** package to deal with cross domain requests.
+**About:** Vanilla **JS** App, used: **Parcel**, **Babel** and **Fetch JSONP** package to deal with cross domain requests.
 
 **API:** [Petfinder](https://www.petfinder.com/developers/api-docs)
 
